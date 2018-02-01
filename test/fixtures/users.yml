@@ -3,7 +3,17 @@
 one:
   name: MyString
   email: MyString
+  Pin: MyString
+  url: MyString
+  Comment: MyString
+  title: MyString
+  body: MyText
 
 two:
   name: MyString
   email: MyString
+  Pin: MyString
+  url: MyString
+  Comment: MyString
+  title: MyString
+  body: MyText
